@@ -154,7 +154,7 @@ function loadNavigation(calculatorWindow) {
 
 function loadContent(calculatorWindow) {
     Object.keys(laws).forEach(function (key) {
-        let bookMarkup = `<div class="acalc__table__content hidden" id="${key.replace('.','').replace(' ','')}">`
+        let bookMarkup = `<div class="acalc__table__content hidden" id="${key.replace('.','').replace(' ','').replace('/','')}">`
         laws[key]['paragraphs'].forEach(function (data) {
             bookMarkup += `
             <div class="table__row" ${data['hovertext']===''?'':'title = "'+data['hovertext']+'"'}>
@@ -190,7 +190,7 @@ function loadContent(calculatorWindow) {
 }
 
 function onNavItemClick(calculatorWindow) {
-    let defaultLawBook = calculatorWindow.querySelector(`.acalc__table__content#${config.defaultLawBook.replace('.','').replace(' ','')}`)
+    let defaultLawBook = calculatorWindow.querySelector(`.acalc__table__content#${config.defaultLawBook.replace('.','').replace(' ','').replace('/','')}`)
     let navbar = calculatorWindow.querySelector('.acalc__table__nav')
     defaultLawBook.classList.toggle('hidden')
 
@@ -202,10 +202,10 @@ function onNavItemClick(calculatorWindow) {
     calculatorWindow.querySelectorAll('.acalc__table__nav .nav__item').forEach(function (item) {
         item.addEventListener('click', function (e) {
             let activeItem = navbar.querySelector('.active')
-            calculatorWindow.querySelector(`.acalc__table__content#${activeItem.innerText.replace('.','').replace(' ','')}`).classList.toggle('hidden')
+            calculatorWindow.querySelector(`.acalc__table__content#${activeItem.innerText.replace('.','').replace(' ','').replace('/','')}`).classList.toggle('hidden')
             activeItem.classList.toggle('active')
             e.target.classList.toggle('active')
-            calculatorWindow.querySelector(`.acalc__table__content#${e.target.innerText.replace('.','').replace(' ','')}`).classList.toggle('hidden')
+            calculatorWindow.querySelector(`.acalc__table__content#${e.target.innerText.replace('.','').replace(' ','').replace('/','')}`).classList.toggle('hidden')
         })
     })
 
