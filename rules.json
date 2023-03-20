@@ -62,8 +62,8 @@
         "mute": "",
         "ajail": "Bis Namensänderung",
         "warn": "",
-        "ban": "0",
-        "hardban": "0",
+        "ban": "",
+        "hardban": "",
         "sonstiges": "",
         "hovertext": "(Allg.) 3.2 Ein Spieler darf keinen Namen verwenden, der dem Namen eines Administrators ähnelt."
       },
@@ -211,7 +211,7 @@
         "hovertext": "(Allg.) MG (Meta Gaming) — Nutzung von IC-Informationen aus dem Spiel heraus im OOC Talk Beispiele: Discord, unter 4.1 und 4.2 bennante Kanäle, Streamsniping etc. Achtung: Nur der MG-Nutzer wird bestraft, nicht derjenige der MG ausspricht!"
       },
       {
-        "paragraph": "CL",
+        "paragraph": "6.2 CL",
         "text": "Combat Logging",
         "mute": "",
         "ajail": "",
@@ -674,7 +674,7 @@
         "warn": "X",
         "ban": "",
         "hardban": "",
-        "sonstiges": "",
+        "sonstiges": "Leader Warn / Boni Rückzahlung",
         "hovertext": "(SF) 1.17 Boni für staatliche Fraktionen und ihre Mitglieder sollten über den Belohnungs-Tab in der Fraktions-Tablette gezahlt werden."
       },
       {
@@ -1122,7 +1122,7 @@
         "paragraph": "2.4",
         "text": "Crime / Laufen Bankraub angreifen",
         "mute": "",
-        "ajail": "",
+        "ajail": "30",
         "warn": "",
         "ban": "",
         "hardban": "",
@@ -1194,7 +1194,7 @@
     "paragraphs": [
       {
         "paragraph": "1.1",
-        "text": "N ur in geeigneten Bereich",
+        "text": "Nur in geeigneten Bereich",
         "mute": "",
         "ajail": "35",
         "warn": "",
@@ -1475,7 +1475,7 @@
         "paragraph": "Lager Beschuss",
         "text": "Auf Lager oder Lazarett Schießen",
         "mute": "",
-        "ajail": "",
+        "ajail": "30",
         "warn": "",
         "ban": "",
         "hardban": "",
@@ -1648,7 +1648,7 @@
         "warn": "",
         "ban": "",
         "hardban": "",
-        "sonstiges": "Leader",
+        "sonstiges": "Leader Warn",
         "hovertext": "(LV) 1.8.1 Kriminelle Organisationen dürfen Versorgungskonvois von 15:00 - 16:00 nicht Angreiffen Ausnahme: Der Chef Kurator hat das Recht diese Regel temporär auszusetzen. Dieser muss jedoch die Leader 12 Stunden im Vorraus benachrichtigen."
       },
       {
