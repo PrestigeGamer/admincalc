@@ -1,0 +1,220 @@
+.acalc__wrapper {
+  background-color: #161618;
+  color: white;
+  margin: -8px;
+  height: calc(100vh - 40px);
+  padding: 20px;
+  overflow: hidden;
+  font-family: Arial, serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.acalc__wrapper ::-webkit-scrollbar {
+  width: 10px;
+}
+.acalc__wrapper ::-webkit-scrollbar-track {
+  background: #222222;
+  border-radius: 5px;
+}
+.acalc__wrapper ::-webkit-scrollbar-thumb {
+  background: #cc0053;
+  border-radius: 5px;
+}
+.acalc__wrapper .hidden {
+  display: none;
+}
+.acalc__wrapper .acalc__searchbar {
+  display: inline-block;
+  position: absolute;
+  right: 50px;
+}
+.acalc__wrapper .acalc__searchbar span {
+  height: 30px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  font-size: 19px;
+  color: white;
+  background-color: #cc0053;
+  margin-right: -5px;
+  border-color: #cc0053;
+  display: inline-block;
+  aspect-ratio: 1/1;
+  text-align: center;
+}
+.acalc__wrapper .acalc__searchbar input {
+  height: 25px;
+  font-size: 20px;
+}
+.acalc__wrapper .acalc__searchbar input[type=text] {
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 10px;
+}
+.acalc__wrapper .acalc__searchbar input[type=text]:focus-visible {
+  outline: none;
+}
+.acalc__wrapper .acalc__copy__notification {
+  position: absolute;
+  top: -80px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 30px 20px 20px;
+  border: solid #cc0053 1px;
+  border-radius: 20px;
+  background: #cc0053;
+  color: #161618;
+  font-weight: bold;
+  transition: top ease-in-out 0.2s;
+}
+.acalc__wrapper .acalc__unselect {
+  border: solid 2px darkgray;
+  background: transparent;
+  color: #cc0053;
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 5vh;
+  right: 5vh;
+  z-index: 99;
+}
+.acalc__wrapper .acalc__unselect:hover {
+  cursor: pointer;
+  border-color: #cc0053;
+}
+.acalc__wrapper .acalc__infos {
+  position: absolute;
+  bottom: 40px;
+}
+.acalc__wrapper .acalc__infos .top_row {
+  margin-bottom: 5px;
+}
+.acalc__wrapper .acalc__infos .top_row input {
+  padding: 0 10px;
+}
+.acalc__wrapper .acalc__infos .top_row select, .acalc__wrapper .acalc__infos .top_row input {
+  background: transparent;
+  color: white;
+  font-size: 1rem;
+  border: solid 2px darkgray;
+}
+.acalc__wrapper .acalc__infos .top_row select:focus, .acalc__wrapper .acalc__infos .top_row input:focus {
+  outline: none;
+  border-color: #cc0053;
+}
+.acalc__wrapper .acalc__infos .top_row select option, .acalc__wrapper .acalc__infos .top_row input option {
+  background: #161618;
+  padding: 5px;
+  color: #cc0053;
+}
+.acalc__wrapper .acalc__infos .top_row select option.selectable, .acalc__wrapper .acalc__infos .top_row input option.selectable {
+  color: white;
+}
+.acalc__wrapper .acalc__infos .bottom_row .command_text:hover {
+  color: #cc0053;
+  cursor: pointer;
+}
+.acalc__wrapper .acalc__table {
+  margin-top: 20px;
+  padding: 5px;
+  height: 80vh;
+}
+.acalc__wrapper .acalc__table .active {
+  border-color: #cc0053;
+  color: #cc0053;
+}
+.acalc__wrapper .acalc__table .acalc__table__link {
+  color: white;
+  text-decoration: none;
+  margin-top: 15px;
+  display: inline-block;
+}
+.acalc__wrapper .acalc__table .acalc__table__link:hover {
+  color: #cc0053;
+}
+.acalc__wrapper .acalc__table .acalc__table__nav .nav__item {
+  border: solid 1px white;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  display: inline-block;
+  padding: 2px 5px;
+  margin: 0 1px;
+}
+.acalc__wrapper .acalc__table .acalc__table__nav .nav__item:hover {
+  cursor: pointer;
+}
+.acalc__wrapper .acalc__table .acalc__table__nav .nav__item.active {
+  border-color: #cc0053;
+  color: #cc0053;
+}
+.acalc__wrapper .acalc__table .acalc__table__header {
+  margin: 10px 15px 10px 5px;
+  padding: 5px;
+}
+.acalc__wrapper .acalc__table .acalc__table__header .table__item {
+  display: inline-block;
+  text-align: center;
+}
+.acalc__wrapper .acalc__table .acalc__table__header .table__item.paragraph {
+  width: 5%;
+}
+.acalc__wrapper .acalc__table .acalc__table__header .table__item.hardban, .acalc__wrapper .acalc__table .acalc__table__header .table__item.warn {
+  width: 10%;
+}
+.acalc__wrapper .acalc__table .acalc__table__header .table__item.text, .acalc__wrapper .acalc__table .acalc__table__header .table__item.sonstiges {
+  width: 20%;
+}
+.acalc__wrapper .acalc__table .acalc__table__header .table__item.mute, .acalc__wrapper .acalc__table .acalc__table__header .table__item.ajail, .acalc__wrapper .acalc__table .acalc__table__header .table__item.ban {
+  width: 10%;
+}
+.acalc__wrapper .acalc__table .acalc__table__content {
+  max-height: calc(100% - 100px);
+  overflow-y: scroll;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row {
+  margin: 10px 5px;
+  padding: 5px;
+  border: solid 1px white;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row.active {
+  border-color: #cc0053;
+  color: #cc0053;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row:hover {
+  cursor: pointer;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row.selected {
+  color: #cc0053;
+  border-color: #cc0053;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.paragraph {
+  width: 5%;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.hardban, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.warn {
+  width: 10%;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.text, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.sonstiges {
+  width: 20%;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.mute, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.ajail, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.ban {
+  width: 10%;
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.mute.noValue:after, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.ajail.noValue:after, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.ban.noValue:after {
+  content: "";
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.mute:after, .acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.ajail:after {
+  content: "min";
+}
+.acalc__wrapper .acalc__table .acalc__table__content .table__row .table__item.ban:after {
+  content: "Tage";
+}
+
+/*# sourceMappingURL=acalc.css.map */

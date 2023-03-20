@@ -1,0 +1,2244 @@
+{
+  "Allg.": {
+    "paragraphs": [
+      {
+        "paragraph": "",
+        "text": "Keine Deutschsprachige Dialogführung",
+        "mute": "10-30",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) Serversprache: Da es ein deutscher Server ist, sollten alle RP Dialoge auf Deutsch sein."
+      },
+      {
+        "paragraph": "1.1",
+        "text": "Multi-Account",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "30",
+        "hardban": "X",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 1.1 Ein Spieler darf maximal 1 Account haben. Ein spieler darf mit maximal 3 Charakter spielen. ( Multiaccount )"
+      },
+      {
+        "paragraph": "2.1",
+        "text": "Unterhnehmen ohne im Spiel",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Entzug des Unternehmens",
+        "hovertext": "(Allg.) 2.1 Ein Spieler darf kein Unternehmen besitzen, ohne aktiv im Spiel zu sein. Aktiv bedeutet: mindestens 5 Stunden pro Woche Spielzeit. Nur das Zahlen von Steuern / das AFK-Sein zählt nicht! "
+      },
+      {
+        "paragraph": "2.2",
+        "text": "Mehrere Unternehmen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Entzug des Unternehmens",
+        "hovertext": "(Allg.) 2.2 Ein Spieler darf nicht mehr als 1 Unternehmen pro Account besitzen."
+      },
+      {
+        "paragraph": "3.1",
+        "text": "Kein Realistischer Vornahme",
+        "mute": "",
+        "ajail": "Bis Namensänderung",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 3.1 Der Spieler muss einen realistischen Vor- und Nachnamen für seinen Charakter verwenden. Der Name darf keine versteckte Andeutung haben."
+      },
+      {
+        "paragraph": "3.2",
+        "text": "Namen eines Admins ähnlich",
+        "mute": "",
+        "ajail": "Bis Namensänderung",
+        "warn": "",
+        "ban": "0",
+        "hardban": "0",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 3.2 Ein Spieler darf keinen Namen verwenden, der dem Namen eines Administrators ähnelt."
+      },
+      {
+        "paragraph": "5.2",
+        "text": "OOC Infos nur in /b, /fb, /cb",
+        "mute": "10-30",
+        "ajail": "",
+        "warn": "",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 5.2 Alle OOC-Informationen können nur über /b, /fb und /cb übermittelt werden."
+      },
+      {
+        "paragraph": "5.3",
+        "text": "IC Text-Chat Aggressives Verhalten",
+        "mute": "10-30",
+        "ajail": "",
+        "warn": "",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 5.3 In IC Text-Chats ist Aggressives / verächtliches Verhalten oder Handeln, Angriffe, Einschüchterung oder toxisches Verhalten, das Schreiben von Kommentaren die nicht zur Unerstützung des RP beitragen, einschließlich Rassismus, Sexismus, Homophobie, Politik, Beleidigung und ähnliches absolut verboten. "
+      },
+      {
+        "paragraph": "5.4",
+        "text": "IC Voice-Chat Aggressives Verhalten",
+        "mute": "30",
+        "ajail": "",
+        "warn": "",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 5.4 In IC Voice-Chat ist Aggressives / verächtliches Verhalten oder Handeln, Angriffe, Einschüchterung oder toxisches Verhalten, das Schreiben von Kommentaren die nicht zur Unerstützung des RP beitragen, einschließlich Rassismus, Sexismus, Homophobie, Politik, Beleidigung und ähnliches absolut verboten. Bitte lesen Sie unsere Erklärung zu guter Führung. Bei schwerwiegenden Verstößen kannst du ohne spezifische Regel bestraft werden."
+      },
+      {
+        "paragraph": "5.5",
+        "text": "OOC Text-Chat Aggressives Verhalten",
+        "mute": "10-30",
+        "ajail": "",
+        "warn": "",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 5.5 In OOC-Chats ist Aggressives / verächtliches Verhalten oder Handeln, Angriffe, Einschüchterung oder toxisches Verhalten, das Schreiben von Kommentaren die nicht zur Unerstützung des RP beitragen, einschließlich Rassismus, Sexismus, Homophobie, Politik und ähnliches absolut verboten. Bitte lesen Sie unsere Erklärung zu guter Führung. Bei schwerwiegenden Verstößen kannst du ohne spezifische Regel bestraft werden."
+      },
+      {
+        "paragraph": "5.6",
+        "text": "Funkgerät /dep /mark /f / c /s /m sind IC Chats",
+        "mute": "30",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 5.6 Das Funkgerät und die Kanäle. /dep, /mark, /f, /c, /s, /m. sowie der Chat ohne Präfix sind IC-Chats. Spieler dürfen im Chat keine OOC-Informationen verwenden, Capslock nutzen, toxisches Verhalten jeglicher Art, Spam, Beleidigung, Rassismus, Sexismus und ähnliches beschreiben."
+      },
+      {
+        "paragraph": "5.7",
+        "text": "Störgeräusche/Earrape",
+        "mute": "10-30",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 5.7 Es ist untersagt, laute und stöhrende Geräusche zu machen. ( Earrape, Soundboard ets. )"
+      },
+      {
+        "paragraph": "RDM",
+        "text": "Random Deathmatch",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "3-30",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) RDM ( Random Deathmatch ) - angreifen, verwunden oder töten von Spielern ohne IC-Hintergrund oder ohne vorangehenden Dialog"
+      },
+      {
+        "paragraph": "VDM",
+        "text": "Vehicle Deathmatch",
+        "mute": "",
+        "ajail": "30-90",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) VDM ( Vehicle Deathmatch ) - absichtliches verletzen oder töten von Spielern durch /mit Fahrzeugen. Absichtliches Rammen anderer Fahrzeuge"
+      },
+      {
+        "paragraph": "NRP",
+        "text": "NonRP / FailRP",
+        "mute": "",
+        "ajail": "30-90",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) NRP ( non RP / Fail RP ) - Unrealistisches Verhalten, das im Widerspruch zur RP-Logik steht. Bedeutet auch unrealistisches Fahren und Fliegen. Beispiele: Springen von hohen Platformen / Gebäuden ohne Fallschirm / fahren mit 2 oder mehr zerschossenen Reifen / befahren / springen von / über Hänge und Berge mit einem Sportscar"
+      },
+      {
+        "paragraph": "NRL",
+        "text": "New Life Regel",
+        "mute": "",
+        "ajail": "30-90",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) NLR ( New Life Regel ) — Wenn ein Spieler stirbt und im Krankenhaus aufwacht, darf er sich nicht mehr daran erinnern wie er gestorben ist. Rachemord ist verboten. Der Spieler darf nicht unmittelbar in die selbe RP Situation zurückkehren."
+      },
+      {
+        "paragraph": "PG",
+        "text": "Power Gaming",
+        "mute": "",
+        "ajail": "60-90",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) PG ( Power Gaming ) - Aufzwingen einer unrealistischen RP Situation. Verhalten, das der Spieler im wirklichen Leben nicht ausführen kann. Beispiele: Bei bedrohung mit einer Waffe seine Angst nicht ausspielen ( Angst um sein eigenes Leben ) / Provokation bei Bedrohung / Baiting von Spielern ( Staatsorganisation / Crimeorganisation / Familien usw. ) / Schussgefechte Faktor 2 ( i.O. 1vs1, 2vs3 ... / n.i.O. 1vs2, 2vs4 ... )"
+      },
+      {
+        "paragraph": "SK",
+        "text": "Spawn Kill",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": ""
+      },
+      {
+        "paragraph": "MG",
+        "text": "Meta Gaming",
+        "mute": "",
+        "ajail": "10-30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) MG (Meta Gaming) — Nutzung von IC-Informationen aus dem Spiel heraus im OOC Talk Beispiele: Discord, unter 4.1 und 4.2 bennante Kanäle, Streamsniping etc. Achtung: Nur der MG-Nutzer wird bestraft, nicht derjenige der MG ausspricht!"
+      },
+      {
+        "paragraph": "CL",
+        "text": "Combat Logging",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "3-7",
+        "hardban": "0",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 6.2 CL ( Combat Logging ) - absichtliches verlassen einer RP Situation Beispiele: absichtliches verlassen / Disconnect des Spiels ( Gamecrash, ausloggen ) / wegtauchen im Wasser / AFK gehen / Hausflucht / Fluch in geschlossene Räume / Flucht in die ArenaDim"
+      },
+      {
+        "paragraph": "7.1",
+        "text": "Healen/Rüstung im Fight",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.1 Während eines Schussgefechtes ist es verboten Gegenstände zu verwenden die heilen oder die Rüstung wiederherstellen. Ausnahme: man ist vollständig in Deckung"
+      },
+      {
+        "paragraph": "7.1.2",
+        "text": "Looten im Fight",
+        "mute": "",
+        "ajail": "30",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.1.2 Während eines Schussgefechtes ist das Aufheben von Gegenständen verboten."
+      },
+      {
+        "paragraph": "7.2",
+        "text": "Drive-By",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.2 Schiessen aus dem Fahrzeug: Erlaubt auf andere Fahrzeuge. Verboten auf Spieler ohne Fahrzeug."
+      },
+      {
+        "paragraph": "7.3",
+        "text": "Illegale Aktivität gegen EMS",
+        "mute": "",
+        "ajail": "30",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.3 Ausrauben, bedrohen, provozieren und aufhalten von EMS Mitarbeitern während der Arbeit ist verboten. Das EMS muss sich an die geltenden Regeln halten ( Bestrafung nach Regelbruch ). Das EMS ist verpflichtet ausnahmlos jedem Spieler zu helfen."
+      },
+      {
+        "paragraph": "7.4",
+        "text": "Waffe vor Tot wegstecken",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "2",
+        "hardban": "",
+        "sonstiges": "Waffenclear Spezialwaffen",
+        "hovertext": "(Allg.) 7.4 Das absichtliche einstecken einer Waffe kurz vor dem Tot ist verboten."
+      },
+      {
+        "paragraph": "7.5",
+        "text": "Anstiften zu Regelbrüchen",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.5 Das anstiften von Spielern zur Regelverletzung / Regelbrüchen."
+      },
+      {
+        "paragraph": "7.6",
+        "text": "Scamming",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "X",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.6 Jegliche Art von Betrug / scam in Zusammenhang mit Eigentum, Gegenständen und Geld, sowohl OOC als auch IC ist verboten."
+      },
+      {
+        "paragraph": "7.8",
+        "text": "Bug-Using",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.8 Es ist verboten Bugs, Fehler, Regellücken und Serverfunktionen des Spiels / des Servers zu misbrauchen und auszunutzen."
+      },
+      {
+        "paragraph": "7.9",
+        "text": "Cheating",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "30",
+        "hardban": "X",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.9 Die Softwarenutzung von Drittanbietern ist verboten ( Cheats, Vorteil, etc. ) Ausnahme: geunde Grafikanpassungen / Hinweis: Die Verwendung von Texturen/Modifikationen, die irgendwelche zusätzlichen Vorteile bieten, entspricht der Nutzung von Software von Drittunternehmen."
+      },
+      {
+        "paragraph": "7.10",
+        "text": "AFK-Bot",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.10 Nutzung eines AFK Bots / Anti AFK System"
+      },
+      {
+        "paragraph": "7.11",
+        "text": "Echtgeldhandel",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "X",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.11 Echtgeldhandel jeglicher Art ist verboten. ( Accounts, Gegenstände, Spielwährung, Ressourcen etc. )"
+      },
+      {
+        "paragraph": "7.12",
+        "text": "Toxisches Verhalten",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.12 toxisches Verhalten jeglicher Art, Spam, Beleidigung, Rassismus, Sexismus und ähnliches gegenüber Admins sind absolut verboten. ( Adminbeleidigung )"
+      },
+      {
+        "paragraph": "7.13",
+        "text": "Aggressives Verhalten",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "3-7",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(Allg.) 7.13 Aggressives / verächtliches Verhalten oder Handeln, Leichenschändung, Angriffe, Einschüchterung oder toxisches Verhalten, das Schreiben von Kommentaren die nicht zur Unerstützung des RP beitragen, einschließlich Rassismus, Sexismus, Homophobie, Politik, Selbstmord oder Selbstverstümmelung, ist verboten."
+      }
+    ]
+  },
+  "GZ.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.1",
+        "text": "Schießen in GZ",
+        "mute": "",
+        "ajail": "30-60",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(GZ) 1.1 Nutzung von Schusswaffen ( außer für Staatsbedienstete oder zur Selbstverteidigung ) und alle kriminellen Handlungen sind verboten."
+      },
+      {
+        "paragraph": "1.2",
+        "text": "Enführung/Rauben",
+        "mute": "",
+        "ajail": "30-60",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(GZ)  1.2 Entführungen und Raubüberfälle sind verboten."
+      },
+      {
+        "paragraph": "1.3",
+        "text": "GZ Flucht",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(GZ)  1.3 Das Flüchten in die GZ ist verboten."
+      }
+    ]
+  },
+  "RZ.": {
+    "paragraphs": [
+      {
+        "paragraph": "2.1",
+        "text": "Ghetto 13:00 - 06:00",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "3-30",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(RZ) 2.1 Von 13:00 Uhr bis 06:00 Uhr (Serverzeit) können Sie ohne Vorwarnung das Feuer in der Red Zone / Ghetto auf bewaffnete Personen eröffnen. Ausnahme: Ausserhalb der beschriebenen Zeit gild hier die Regel 6.1. Während der beschriebenen Zeit können Admins schwerwiegende vergehen nach 6.1 sanktionieren."
+      }
+    ]
+  },
+  "CF.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.1",
+        "text": "Neulinge Rang 1-3",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CF) 1.1 Neulinge in der Fraktion (Rang 1-3) sind in interne Angelegenheiten der Fraktion nicht involviert und kennen auch keine Namen älterer Mitglieder. Dies widerspricht der RP-Logik."
+      },
+      {
+        "paragraph": "1.2",
+        "text": "Lager für Persönliche Zwecke",
+        "mute": "",
+        "ajail": "30",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "X",
+        "sonstiges": "Charakter Wipe",
+        "hovertext": "(CF) 1.2 Spieler dürfen die Lageritems und das Geld der Fraktion nicht für persönliche Zwecke nutzen."
+      },
+      {
+        "paragraph": "1.5",
+        "text": "Baiting / Provokation",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CF) 1.5 Baiting / Provokationen, Aggressionen und toxisches Verhalten ist im HQ verboten."
+      },
+      {
+        "paragraph": "1.6",
+        "text": "Fraktions Kleidung",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CF) 1.6 Spieler müssen Kleidung in Fraktionsfarbe tragen ( min. das Oberteil ) und für kriminelle Aktivitäten Fraktions- oder eigene Autos in Fraktionsfarbe nutzen."
+      },
+      {
+        "paragraph": "1.7",
+        "text": "HQ Flucht",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CF) 1.7 HQ-Flucht ist für Crime-Member ist verboten."
+      },
+      {
+        "paragraph": "1.8",
+        "text": "Crime Aktivität nur in Maske",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CF) 1.8 Alle kriminellen Aktivitäten, die im Gegensatz zum staatlichen Gesetz stehen, müssen maskiert durchgeführt werden. Anmerkung: Bart und Schnurrbart sind keine Maske."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "Diplomatische Beziehung keine 10 Personen",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CF) 2.1 Beim Schliessen von Handels- und diplomatischen Beziehungen müssen min. 10 Personen aus der jeweiligen Fraktion, im HQ, anwesend sein. Es ist erlaubt Allianzen zu bilden und einen Krieg zwischen Fraktionen auszurufen. "
+      }
+    ]
+  },
+  "SF.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.2",
+        "text": "Spieler mit Vorstrafen",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Fraktionskick",
+        "hovertext": "(SF) 1.2 Es ist verboten, Spieler mit eingetragenen Vorstrafen, in eine Staatsfraktion aufzunehmen."
+      },
+      {
+        "paragraph": "1.3",
+        "text": "MilitärID ohne Grund",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.3 Es ist verboten, eine Militärkarte ohne triftigen Grund auszustellen"
+      },
+      {
+        "paragraph": "1.4",
+        "text": "Maßnahmen tatsächliche Maßnahmen zuwiederlaufen",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.4 Es ist verboten, Maßnahmen zu ergreifen, die den tatsächlichen Taten des Beamten zuwiderlaufen."
+      },
+      {
+        "paragraph": "1.5",
+        "text": "Transfer von Member ohne zustimmung",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(SF) 1.5 Der Transfer von einer staatlichen Fraktion zu einer anderen staatlichen Fraktion ist nur mit Zustimmung beider Führungspositionen oder des Gouverneurs möglich."
+      },
+      {
+        "paragraph": "1.6",
+        "text": "Gesetze Einhalten",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.6 Jede öffentliche Einrichtung muss die geltenden Gesetze einhalten und gegenüber der Regierung rechenschaftspflichtig sein."
+      },
+      {
+        "paragraph": "1.8",
+        "text": "HQ einer Crime Frak betreten ohne Grund",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.8 Es ist verboten, sich auf dem Hauptgebiet einer kriminellen Fraktion ohne IC-Grund aufzuhalten. Ausnahme: Überfall, Undercover-Arbeit, Kriegszustand, Feuer auf Funktionsträger auf dem Gelände."
+      },
+      {
+        "paragraph": "1.9",
+        "text": "Leader Korruption",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.9 Es ist den höherrangigen Mitarbeitern verboten, jegliche kriminelle Tätigkeiten, einschließlich Korruption, durchzuführen. Ausnahme: Höherrangige Mitarbeiter sind: Führer, Stellvertreter, Abteilungsleiter und stellvertretende Abteilungsleiter."
+      },
+      {
+        "paragraph": "1.10",
+        "text": "Warehousing",
+        "mute": "",
+        "ajail": "30",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "X",
+        "sonstiges": "Charakter Wipe",
+        "hovertext": "(SF) 1.10 Es ist verboten, Gegenstände, die im Zusammenhang mit Schusswechseln erworben wurden, zu verkaufen oder zu lagern. Achtung: Alle im Zusammenhang mit Schießereien erworbenen Gegenstände müssen entweder in der Fraktionslagerhalle verwahrt oder recycelt werden."
+      },
+      {
+        "paragraph": "1.11",
+        "text": "Staatliche Gegenstände Zuhause/Auto",
+        "mute": "",
+        "ajail": "30",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "X",
+        "sonstiges": "Charakter Wipe",
+        "hovertext": "(SF) 1.11 Es ist verboten, staatliche Gegenstände zu Hause und im Auto aufzubewahren: Waffen, Munition, kugelsichere Westen, verschiedene Arten von Spezialausrüstung, Gegenstände jeglicher staatlichen Fraktion. Ausnahme: Zustimmung des Kurators der Fraktion."
+      },
+      {
+        "paragraph": "1.11.2",
+        "text": "Staatseigentum verkaufen weitergeben",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "7-30",
+        "sonstiges": "Permabann mit Rückabwicklung und Charakterwipe",
+        "hovertext": "(SF) 1.11.2 Es ist verboten, staatliches Eigentum an andere Personen weiterzugeben oder zu verkaufen. Ausnahme: An Mitarbeiter anderer staatl. Fraktionen."
+      },
+      {
+        "paragraph": "1.12",
+        "text": "Waffen/Ausrüstung nach entlassung",
+        "mute": "",
+        "ajail": "30",
+        "warn": "X",
+        "ban": "3-30",
+        "hardban": "X",
+        "sonstiges": "Charakter Wipe",
+        "hovertext": "(SF) 1.12 Es ist verboten, Waffen/Spezialausrüstung nach der Entlassung aufzubewahren."
+      },
+      {
+        "paragraph": "1.13",
+        "text": "Gepanzerte Fhzg. in der Stadt",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.13 Es ist verboten, gepanzerte Fahrzeuge in der Stadt zu benutzen. Achtung: Insurgent, Scarab, Tank und andere gepanzerte Fahrzeuge. Ausnahme: Überfälle, Paraden, Terroranschläge, Rückgabe eines gestohlenen Militärfahrzeugs an die Basis, Lieferungen, verstärkter Streifendienst von LSPD/LSSD/FIB/SANG mit gültigem IC-Grund."
+      },
+      {
+        "paragraph": "1.14",
+        "text": "Nur Fahrzeuge der Fraktion",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.14 Ermittlungsbeamte sollten nur in fraktionsinternen Fahrzeugen patrouillieren, Festnahmen vornehmen und Verfolgungen durchführen. Ausnahme: Detectives."
+      },
+      {
+        "paragraph": "1.15",
+        "text": "Bechlagnahmen nur über Skript Funktion",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.15 Die Beschlagnahme illegaler Gegenstände darf nur funktionell, durch Skript, initiiert werden. Erklärung: Nur über das Menü unter der Taste G. Es ist verboten, um das Entfernen von Gegenständen aus dem Inventar zu bitten. "
+      },
+      {
+        "paragraph": "1.16",
+        "text": "Drohne ohne Grund",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.16 Es ist verboten, Drohnen ohne gültigen Grund zu verwenden. Erklärung: Verwendung von Drohnen zur persönlichen Unterhaltung, um jemanden einen Streich zu spielen, zur Spionage von jemandem usw."
+      },
+      {
+        "paragraph": "1.17",
+        "text": "Bonis nur über FraktionsApp",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.17 Boni für staatliche Fraktionen und ihre Mitglieder sollten über den Belohnungs-Tab in der Fraktions-Tablette gezahlt werden."
+      },
+      {
+        "paragraph": "1.18",
+        "text": "Mehr als ein Rang pro Tag",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(SF) 1.18 Es ist verboten, mehr als einen Rang pro Tag zu befördern. Ausnahme: Zustimmung des Hauptkurators."
+      },
+      {
+        "paragraph": "1.19",
+        "text": "Ohne Bericht befördert",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(SF) 1.19 Es ist verboten, ohne Fortschrittsbericht befördert zu werden. Ausnahme: Zustimmung des Hauptkurators."
+      },
+      {
+        "paragraph": "1.20",
+        "text": "Detectives in Schießerei und Festnahmen",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.20 Detectives dürfen bei Schießereien und Festnahmen nicht eingreifen und dürfen auch keine Verfolgungen aktiv durchführen. Erklärung: Sie können die Situation passiv beobachten und anschließend ihre Maßnahmen ergreifen. Sie dürfen keine Verfolgungen als erste Einheit (u1) durchführen."
+      },
+      {
+        "paragraph": "1.21",
+        "text": "Festnahme länger als 50 Min",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 1.21 Die Höchstdauer, die eine Person in einer Gewahrsamseinrichtung festgehalten werden kann, beträgt 50 Minuten."
+      },
+      {
+        "paragraph": "5.2",
+        "text": "Exekutive / Festnehmen wenn getötet und Krankenhaus",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 5.2 Strafverfolgungsbeamte dürfen einen Spieler, der während einer Verhaftung getötet wurde und sich im Krankenhaus befindet, nicht festnehmen."
+      },
+      {
+        "paragraph": "5.3",
+        "text": "Exekutive / Im Ghetto alleine",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 5.3 Strafverfolgungsbeamte dürfen nicht alleine das Ghetto patrouillieren."
+      },
+      {
+        "paragraph": "9.1",
+        "text": "EMS / EMS ist verpflichtet zu helfen",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 9.1 EMS-Mitglieder sind verpflichtet, ausnahmslos jedem Spieler zu helfen."
+      },
+      {
+        "paragraph": "11.1",
+        "text": "Doppeltsoviele Staatsfahrzeuge als Crimefahrzeuge",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 11.1 Für ein Fahrzeug einer kriminellen Fraktion können maximal zwei Fahrzeuge einer staatlichen Fraktion fallen. Erklärung: Ein kriminelles Fahrzeug - zwei staatliche Fahrzeuge, zwei kriminelle Fahrzeuge - vier staatliche Fahrzeuge usw."
+      },
+      {
+        "paragraph": "11.2",
+        "text": "Agressive Handlungen nur mit RP Hintergrund",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 11.2 Jegliche aggressive Handlungen von staatlichen Diensten müssen von einer Warnung und angemessener RP-Spielweise begleitet werden. Erklärung: Rammen, Einkreisen, Reifen beschädigen."
+      },
+      {
+        "paragraph": "11.3",
+        "text": "Auf den Spieler an der Fhzg. abgabe warten",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(SF) 11.3 Es ist verboten, auf den Spieler in der Stelle zu warten, an der das gestohlene Fahrzeug abgegeben wird. Erklärung: Die Aktion muss durch eine Verfolgungsjagd initiiert werden. Sie darf nicht an der Abgabestelle initiiert werden."
+      }
+    ]
+  },
+  "CP.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.2",
+        "text": "Spieler dürfen keinen Taser nutzen",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CP) 1.2 Spieler dürfen keine Taser verwenden."
+      },
+      {
+        "paragraph": "1.4",
+        "text": "Spieler nicht in der Fraktion",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CP) 1.4 Spieler, die keine Mitglieder der betreffenden Fraktion sind, sind nicht zu dem Ereignis zugelassen."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "State / Verwendung von Handschellen",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CP) 2.1 Die Verwendung von Handschellen ist verboten."
+      },
+      {
+        "paragraph": "2.2",
+        "text": "State / Zerstören von Booten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CP) 2.2 Das Zerstören von Booten der kriminellen Fraktion ist verboten."
+      },
+      {
+        "paragraph": "2.3",
+        "text": "State / Verwenden von Flugzeugen und Hubschraubern",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CP) 2.3 Die Verwendung von Flugzeugen und Hubschraubern ist verboten."
+      },
+      {
+        "paragraph": "3.1",
+        "text": "Crime / 1 IC-Bündniss ist erlaubt",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.1 Ein IC-Bündnis ist erlaubt."
+      },
+      {
+        "paragraph": "3.2",
+        "text": "Crime / Aufeinandertreffen = Beschießen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.2 Treffen zwei kriminelle Banden während eines Angriffs auf der Insel aufeinander, müssen sie ohne Vorwarnung das Feuer eröffnen."
+      },
+      {
+        "paragraph": "3.3",
+        "text": "Crime / Kabelbinder sind verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(CP) 3.3 Die Verwendung von Kabelbindern ist verboten."
+      },
+      {
+        "paragraph": "3.4",
+        "text": "Crime / Raub und Entführung sind verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.4 Raub und Entführung sind verboten."
+      },
+      {
+        "paragraph": "3.5",
+        "text": "Crime / Vorsätzliche Untätigkeit ist verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.5 Vorsätzliche Untätigkeit während eines Angriffs auf die Insel ist verboten. Erklärung: Untätigkeit wird definiert als langes Verweilen auf der Insel/am Kontrollpunkt nachdem Materialien erbeutet wurden, das Einnehmen von Kontrollpunkten zu Kampfzwecken usw."
+      },
+      {
+        "paragraph": "3.6",
+        "text": "Crime / Warten auf Booten von Gegnern",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.6 Das Warten auf Boote von Gegner ist verboten."
+      },
+      {
+        "paragraph": "3.8",
+        "text": "Crime / Respawnen vor Ende verboten",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.8 Das Respawnen von Fahrzeugen ist bis zum Ende des Angriffs verboten."
+      },
+      {
+        "paragraph": "3.9",
+        "text": "Crime / Anzahl der Teilnehmer",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(CP) 3.9 Anzahl der Teilnehmer - maximal 60, mindestens 15. Hinweis: Gesamtzahl einschließlich Allianz."
+      }
+    ]
+  },
+  "AD.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.2",
+        "text": "Teilnehmer 20",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warnung",
+        "hovertext": "(AD) 1.2 Die Anzahl der Teilnehmer beträgt 20 Personen pro Fraktion."
+      },
+      {
+        "paragraph": "1.5",
+        "text": "Nur Staatliche und Crimes",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 1.5 An dem Ereignis können nur staatliche und kriminelle Fraktionen teilnehmen."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "Fahren mit Fhzg. im Gebiet",
+        "mute": "",
+        "ajail": "20",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.1 Das Fahren mit Fahrzeugen auf das AirDrop-Gebiet ist verboten, nur das Anfahren ist erlaubt. Während des Ereignisses sind in der AirDrop-Zone keine Fahrzeuge erlaubt. "
+      },
+      {
+        "paragraph": "2.2",
+        "text": "Animationen im Event",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.2 Die Verwendung von Animationen während des Ereignisses ist verboten."
+      },
+      {
+        "paragraph": "2.3",
+        "text": "Absichtlich ergeben",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(AD) 2.3 Spieler dürfen sich nicht absichtlich anderen Fraktionen ergeben"
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Sniper und Tazer Verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.4 Spieler dürfen keine Sniper-Gewehre oder Taser verwenden."
+      },
+      {
+        "paragraph": "2.5",
+        "text": "Öffnen im Gefecht",
+        "mute": "",
+        "ajail": "40",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.5 Das Öffnen von AirDrop und das Sammeln vom Gegenständen aus dem AirDrop während des Feuergefechts ist verboten. AirDrop kann nur geöffnet und Gegenstände daraus gesammelt werden, wenn die letzte lebende Fraktion auf dem Platz bleibt."
+      },
+      {
+        "paragraph": "2.6",
+        "text": "Verlassen nach Eventstart",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.6 Nach dem Betreten des AirDrop-Gebiets ist das Verlassen während des Ereignisses verboten."
+      },
+      {
+        "paragraph": "2.7",
+        "text": "Außerhalb der Zone Campen",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.7 Personen außerhalb des AirDrop-Gebiets sollten sich bemühen, das AirDrop zu erreichen und sollten sich nicht auf neutralem Territorium aufhalten."
+      },
+      {
+        "paragraph": "2.8",
+        "text": "Gefechte außerhalb der Zone",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.8 Gefechte sind nur in der AirDrop-Zone erlaubt. Das Schießen in der neutralen Zone und von der AirDrop-Zone aus in die neutrale Zone ist verboten. Ausnahme: Wenn aus dem Inneren auf dich geschossen wird, darfst du zurückfeuern. Du musst jedoch unverzüglich in die Zone eintreten."
+      },
+      {
+        "paragraph": "2,9",
+        "text": "10 Minuten nach Eventstart in die Zone",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(AD) 2.9 Die AirDrop-Zone darf spätestens 10 Minuten nach dem Abwurf des Airdrops betreten werden. Erklärung: Wenn der AirDrop z.B. um 20:00 Uhr stattfindet, darf die Zone nur zwischen 20:00 und 20:10 betreten werden."
+      },
+      {
+        "paragraph": "2.10",
+        "text": "Wärmebildkameras / Wärmebildhelmen sind Verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.10 Die Verwendung von Wärmebildkameras / Wärmebildhelmen ist verboten."
+      },
+      {
+        "paragraph": "2.11",
+        "text": "Nur leichte Westen erlaubt",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(AD) 2.11 Nur leichete kugelsichere Westen ( 50% ) sind erlaubt."
+      }
+    ]
+  },
+  "BR.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.2",
+        "text": "Blockieren Ein/Ausgang",
+        "mute": "30",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BR) 1.2 Der Zugang zu und der Ausgang aus der Bank darf nicht blockiert werden."
+      },
+      {
+        "paragraph": "3.1",
+        "text": "State / Ohne Verhandlung Schussgefecht eröffnen / Staats",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BR) 3.1 Das eröffnen eines Schussgefechts ohne Verhandlungen mit den Räubern ist verboten."
+      },
+      {
+        "paragraph": "3.2",
+        "text": "State / Ohne Verhandlung feuer eröffnen / Staats",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BR) 3.2 Das Öffnen von Feuer ohne Verhandlungen mit den Räubern ist verboten."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Crime / Laufen Bankraub angreifen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(BR) 2.4 Fraktionen dürfen keinen laufenden Bankraub angreifen. Selbst wenn sie im Kriegszustand mit dem Initiator dieses Bankraubs sind."
+      }
+    ]
+  },
+  "Laden Raub.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.2",
+        "text": "Zu/Augang Blockiert",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 1.2 Der Zugang zu und der Ausgang aus dem Unternehmen darf nicht blockiert werden."
+      },
+      {
+        "paragraph": "3.1",
+        "text": "State / Weniger als 3 Personen / Staats",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LR) 3.1 Es ist verboten, mit weniger als 3 Personen auf einen Raubüberfall zu reagieren und ihn zu verteidigen."
+      },
+      {
+        "paragraph": "3.2",
+        "text": "State / Eröffnen eines Schussgefechts ohne Verhandlung",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 3.2 Das eröffnen eines Schussgefechts ohne Verhandlungen mit den Räubern ist verboten."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "Crime / Anzahl 2 - 35",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 2.1 Die Anzahl der Teilnehmer beträgt 2 bis 35 Personen."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Crime / 2 Crime Fraks müssen schießen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 2.4 Wenn sich zwei kriminelle Fraktionen während eines Angriffs treffen, sind sie verpflichtet, einen Feuerwechsel zu beginnen. Achtung: Das Schießen ohne IC-Dialog wird als RDM gezählt. "
+      }
+    ]
+  },
+  "ÜRE.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.1",
+        "text": "N ur in geeigneten Bereich",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 1.1 Während der Entführung sollten Sie sicherstellen, dass Sie dies in einem geeigneten Bereich tun."
+      },
+      {
+        "paragraph": "1.2",
+        "text": "Doppelt soviele Personen wie Opfer",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 1.2 Es gibt keine Einschränkungen hinsichtlich der Anzahl der Teilnehmer, aber die Initiatorinnen sollten doppelt so viele Personen haben wie diejenigen, die ausrauben oder entführen wollen."
+      },
+      {
+        "paragraph": "1.4",
+        "text": "Fraktionsfhzg. oder Fhzg. mit Selber Farbe",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 1.4 Fraktionsfahrzeuge oder Fahrzeuge, die in der Farbe der Fraktion lackiert sind, sind erlaubt."
+      },
+      {
+        "paragraph": "1.6",
+        "text": "Raub/Entführung nur als Crime",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 1.6 Raub und Entführung sind Teil krimineller Aktivitäten und können nur von Mitgliedern krimineller Banden begangen werden."
+      },
+      {
+        "paragraph": "1.7",
+        "text": "Im Inneren berauben oder entführen",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 1.7 Initiatorinnen dürfen nicht im Inneren berauben oder entführen. Hinweis: Bei der Entführung geht es um den gesamten Vorgang. Der Entführte darf nicht im Inneren festgehalten werden."
+      },
+      {
+        "paragraph": "1.8",
+        "text": "Mehr als 4 Personen als Geisel",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 1.8 Initiatorinnen dürfen nicht mehr als 4 Personen/Geiseln gleichzeitig berauben oder entführen."
+      },
+      {
+        "paragraph": "1.9",
+        "text": "Ohne IC-Grund Getötet",
+        "mute": "",
+        "ajail": "60",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 1.9 Initiatorinnen dürfen Opfer nicht ohne wichtigen IC-Grund töten. Dies bezieht sich auf: Beleidigungen, Fluchtversuche, Identifizierung von Initiatorinnen, Versuch, durch Gewalt einzuschüchtern, Verletzung der PG-Regel."
+      },
+      {
+        "paragraph": "1.10",
+        "text": "Opfer gedemütigt",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 1.10 Initiatorinnen dürfen Opfer nicht unhöflich demütigen."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "Crime / Kein EMS entführen",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 2.1 Kriminelle Fraktionen dürfen keine Einsatzkräfte der EMS (im Dienst) entführen."
+      },
+      {
+        "paragraph": "2.2",
+        "text": "Crime / POV in 720p und 3 Tage aufbewahren",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 2.2 Die gesamte Entführung muss in 720p oder höherer Qualität aufgenommen werden, inklusive Ton, und das Video muss 3 Tage nach Abschluss der Entführung aufbewahrt werden."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Crime / Entführung auf HQ",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 2.4 Das Entführen auf dem eigenen Hauptterritorium ist verboten."
+      },
+      {
+        "paragraph": "2.5",
+        "text": "Crime / Max. 3 Entführungen am Tag",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 2.5 Kriminelle Fraktionen dürfen nur 3 Mal pro Tag entführen."
+      },
+      {
+        "paragraph": "2.6",
+        "text": "Crime / Entführung verzögern",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 2.6 Kriminelle Fraktionen dürfen die Entführung nicht absichtlich verzögern."
+      },
+      {
+        "paragraph": "3.1",
+        "text": "State / Forderungen erfüllen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 3.1 Die Teilnehmer müssen alle Forderungen der Entführer erfüllen (Lösegeld bereitstellen, Rückzugsmöglichkeit usw.)."
+      },
+      {
+        "paragraph": "3.3",
+        "text": "State / 30 Minuten Zeit zu reagieren ",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(ÜRE) 3.3 Nach einer Entführung haben die Sicherheitskräfte 30 Minuten Zeit, um zu reagieren."
+      },
+      {
+        "paragraph": "4.1",
+        "text": "Crime / Raub nur durch Skript",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 4.1 Der Raub kann nur funktionell, durch ein Skript, initiiert werden. Erklärung: Nur über das Menü mit der G-Taste. Das Verlangen, Gegenstände aus dem Inventar zu werfen, ist nicht erlaubt."
+      },
+      {
+        "paragraph": "4.2",
+        "text": "Crime / Erpressen von Wohnung/Haus&Fahrzeug/Geld Verboten ",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 4.2 Der Räuber darf nicht um die Übertragung von Wohnungen oder Häusern/Fahrzeugen/Geld in der Bank/Kleidung bitten."
+      },
+      {
+        "paragraph": "4.3",
+        "text": "Crime / Gleiche Person nur einmal ausrauben",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 4.3 Der Räuber darf die gleiche Person nur einmal ausrauben. Selbst wenn der erste Versuch misslungen ist, ist das Wiederholen des Raubüberfalls nicht erlaubt."
+      },
+      {
+        "paragraph": "4.4",
+        "text": "Mind. 2 Autos a 2 Personen",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 4.4 Du musst mindestens 2 Autos und 2 Personen in jedem Auto haben, um ein anderes Auto anzuhalten. Du benötigst X2 mehr Räuber als Opfer. Um jedoch nur ein Auto mit 4 Personen auszurauben, reichen 6 Räuber aus."
+      },
+      {
+        "paragraph": "4.5",
+        "text": "Jobs Ausrauben 12:00 - 23:00",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 4.5 Räuber dürfen Mitarbeiter (Inkassanten, Postboten, Lastwagenfahrer, Müllmänner und Busfahrer) während ihrer \"Arbeitszeit\" von 12:00 bis 23:00 Uhr (Serverzeit) nicht berauben."
+      },
+      {
+        "paragraph": "4.6",
+        "text": "Ausrauben von Toten",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(ÜRE) 4.6 Das Ausrauben von Toten (Death Timer) ist nicht erlaubt."
+      }
+    ]
+  },
+  "FZ.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.3",
+        "text": "Scharfschützengewehren / Taser Verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(FZ) 1.3 Das Verwenden von Scharfschützengewehren und Tasern ist verboten."
+      },
+      {
+        "paragraph": "1.4",
+        "text": "Highgrounds",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(FZ) 1.4 Das Besetzen von Highgrounds die man ohne Fluggerät ( Hubschrauber, Flugzeug etc. ) nicht erreichen kann, ist verboten."
+      },
+      {
+        "paragraph": "1.5",
+        "text": "Zerstören von material Fahrzeugen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 1.5 Das Absichtliche Zerstören von Materialfahrzeugen des Gegners ist verboten."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "SANG / Verlassen des Lazaretts nach Tod",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(FZ) 2.1 Das Verlassen des Lazaretts ist nach dem Tod (NLR) untersagt Ausnahme: Wenn des Fort von einer anderen kriminellen Organisation angegriffen wurde, wird der NLR-Zähler zurückgesetzt."
+      },
+      {
+        "paragraph": "Lager Beschuss",
+        "text": "Auf Lager oder Lazarett Schießen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(FZ) Es ist verboten, auf das Lagerhaus oder das Lazarett zu schiessen. Ausnahme: Gegenfeuer (counterfire)"
+      },
+      {
+        "paragraph": "3.4",
+        "text": "State / Blockieren von Kontrollpunkten",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 3.4 Das Blockieren von Kontrollpunkt-1 / Kontrollpunkt-2 ist verboten."
+      },
+      {
+        "paragraph": "3.5",
+        "text": "State / Materialfahrzeug stehlen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 3.5 Das Stehlen von Materialfahrzeugen (speedo) von kriminellen Fraktionen ist verboten."
+      },
+      {
+        "paragraph": "4.1",
+        "text": "Crime / Kein Crime Frak Mitglied",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(FZ) 4.1 Es ist verboten, dass Spieler teilnehmen, die keine Mitglieder der kriminellen Fraktion sind."
+      },
+      {
+        "paragraph": "4.4",
+        "text": "Angriff nur einmal Täglich",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.4 Es ist verboten, eine Fraktion mehr als einmal täglich anzugreifen."
+      },
+      {
+        "paragraph": "4.7",
+        "text": "Beladen während Feuergefecht",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.7 Das Beladen von Materialfahrzeugen (speedo) während des aktiven Feuergefechts in der Nähe des Beladepunkts ist verboten."
+      },
+      {
+        "paragraph": "4.10",
+        "text": "Kabelbinder sind Verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(FZ) 4.10 Die Verwendung von Kabelbinder ist verboten."
+      },
+      {
+        "paragraph": "4.11",
+        "text": "Plündern / Entführen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.11 Das Plündern / Entführen ist verboten."
+      },
+      {
+        "paragraph": "4.13",
+        "text": "Angriff auf Türme und Bunker",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.13 Der Angriff auf die Kontrolltürme und den Bunker ist verboten."
+      },
+      {
+        "paragraph": "4.15",
+        "text": "Respawn von Fhzg.",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.15 Das Respawnen von Fahrzeugen der Fraktion bis zum Ende des Angriffs ist verboten."
+      },
+      {
+        "paragraph": "4.16",
+        "text": "POV Pflicht",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.16 Es ist erforderlich, dass von jeder teilnehmenden Fraktion mindestens ein POV vorliegt. Hinweis: Die Aufzeichnung muss mindestens 720p haben und Ton enthalten."
+      },
+      {
+        "paragraph": "4.17",
+        "text": "Materialien die nur im SANG Lager sind",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(FZ) 4.17 Kriminelle Fraktionen dürfen nur Materialien stehlen, die sich in der SANG-Lagerung befinden. Anwendbarkeit: Im Fort Zancudo gibt es drei Punkte. Jeder von ihnen kann bis zu 5000 Materialien haben. Wenn Sie 0/5000 sehen, dürfen Sie keine Materialien in Ihr Materialfahrzeug (speedo) laden."
+      }
+    ]
+  },
+  "LV.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.5",
+        "text": "Warten auf Fraktionen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.5 Das Warten auf Fraktionen an Lade-, Entlade- und Crafting-Punkten sowie in einem Bereich von weniger als 350 m um diese herum ist verboten. Das Angreifen von Transporten an Lade-, Entlade- und Crafting-Punkten ist ebenfalls verboten, wenn die Aktion nicht zuvor durch eine Straßensperre initiiert wurde. Hinweis: Dies gilt auch für Spieler ohne Fraktion."
+      },
+      {
+        "paragraph": "1.6",
+        "text": "Scharfschützengewehren verboten",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 1.6 Die Verwendung von Scharfschützengewehren ist verboten."
+      },
+      {
+        "paragraph": "1.7",
+        "text": "Verzögern Lade/Crafting Prozess",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.7 Das Absichtliche Verzögern des Lade- / Entlade- / Crafting-Prozesses ist verboten."
+      },
+      {
+        "paragraph": "1.8.1",
+        "text": "Crime / Konvois 15:00-16:00 nicht angreifen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader",
+        "hovertext": "(LV) 1.8.1 Kriminelle Organisationen dürfen Versorgungskonvois von 15:00 - 16:00 nicht Angreiffen Ausnahme: Der Chef Kurator hat das Recht diese Regel temporär auszusetzen. Dieser muss jedoch die Leader 12 Stunden im Vorraus benachrichtigen."
+      },
+      {
+        "paragraph": "1.9",
+        "text": "Materialien pro Transport",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.9 Die maximale Menge an Materialien für den Transport pro Fraktion beträgt 5000."
+      },
+      {
+        "paragraph": "1.10",
+        "text": "Crime / Konvois 15:00-16:00 nicht angreifen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.10 Kriminelle Banden dürfen zwischen 15:00 und 16:00 Uhr Deutscher Zeit die Lieferung nicht angreifen."
+      },
+      {
+        "paragraph": "1.11",
+        "text": "Respawnen von Transportern",
+        "mute": "",
+        "ajail": "60",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.11 Das Respawnen von Transportfahrzeugen bis zum Ende der Lieferung ist verboten."
+      },
+      {
+        "paragraph": "1.12",
+        "text": "Einbehalten von Transportern",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 1.12 Das Absichtliche Einbehalten von Transportfahrzeugen einer anderen Fraktion ist verboten."
+      },
+      {
+        "paragraph": "1.13",
+        "text": "Schießen erst nach Halt des Konvois",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.13 Das Schießen kann erst begonnen werden, wenn der Transportkonvoi vollständig angehalten wurde. Ausnahme: Schießen durch Konvoibegleiter, Kontakt des Konvois mit einer Straßensperre."
+      },
+      {
+        "paragraph": "1.14",
+        "text": "",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 1.14 Der Transport von Materialien zur Basis oder zum Crafting darf nur mit einem Bodenfahrzeug erfolgen. Ausnahme: Transport von Materialien zur Waffenproduktion vom Ladeort auf das Gebiet von Fort Zancudo."
+      },
+      {
+        "paragraph": "1.15",
+        "text": "Absichtliches Verlieren",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 1.15 Das Absichtliche Verlieren oder Geben von Lieferungen ist verboten."
+      },
+      {
+        "paragraph": "1,17",
+        "text": "Spieler ohne Fraktion",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 1.17 Die Teilnahme von Spielern ohne Fraktion ist verboten."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Nutzen von Personenfahrzeugen",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 2.4 Das Benutzen von Personenfahrzeugen ist verboten."
+      },
+      {
+        "paragraph": "2.5",
+        "text": "Verstärkung während Angriff",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 2.5 Es ist verboten, während eines Versorgungsangriffs Verstärkung zu rufen."
+      },
+      {
+        "paragraph": "2.6",
+        "text": "POV Pflicht",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 2.6 Es ist erforderlich, dass jede an der Aktion beteiligte Fraktion 1 POV hat. Hinweis: Das Video muss vom Moment des Beladens der Materialien an dauern, hat einen originalen Ton und eine Qualität von mindestens 720p. Die Teilnehmer sind verpflichtet, das Video von der Lieferung für 48 Stunden aufzubewahren."
+      },
+      {
+        "paragraph": "2.7",
+        "text": "Route während Lieferung",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 2.7 Sie dürfen während einer Lieferung nicht absichtlich umkehren oder Ihre Route ändern."
+      },
+      {
+        "paragraph": "3.1",
+        "text": "SANG / Transport 15:00 - 22:30",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 3.1 Der Transport von Materialien findet zwischen 15:00 und 22:30 Uhr Deutscher Zeit statt"
+      },
+      {
+        "paragraph": "3.3",
+        "text": "SANG / Unterlieferung",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 3.3 Die vorsätzliche Unterlieferung an andere staatliche Stellen ist verboten."
+      },
+      {
+        "paragraph": "3.4",
+        "text": "SANG / 2 POV des Liefermaterials",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 3.4 Die SANG-Beauftragten sind verpflichtet, mindestens 2 Videoaufzeichnungen des Liefermaterials zu machen."
+      },
+      {
+        "paragraph": "4.2",
+        "text": "Crime / Lieferung 15:00-22:00",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 4.2 Die Lieferung kann zwischen 15:00 und 22:00 Uhr Deutscher Zeit erfolgen."
+      },
+      {
+        "paragraph": "4.3",
+        "text": "Crime / Überfall in Fraktionsfhg und Farbe",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 4.3 Der Überfall auf die Lieferung muss in Fahrzeugen der Fraktion oder in der Fraktionsfarbe erfolgen."
+      },
+      {
+        "paragraph": "4.4",
+        "text": "Crime / Blockieren in GZ",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 4.4 Das Blockieren von Straßen in der grünen Zone ist verboten."
+      },
+      {
+        "paragraph": "",
+        "text": "Crime / Nutzen von Autos",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 4.6 Das Benutzen von Autos während des Schusswechsels ist verboten."
+      },
+      {
+        "paragraph": "4.7",
+        "text": "Crime / Nur IC-Allianz",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 4.7 Während des Angriffs ist nur eine IC-Allianz erlaubt."
+      },
+      {
+        "paragraph": "4.8",
+        "text": "Crime / Entführung",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 4.8 Entführung bei der Lieferung von Material ist verboten."
+      },
+      {
+        "paragraph": "4.10",
+        "text": "Crime / bei Begegnung Schießen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "LEader Warn",
+        "hovertext": "(LV) 4.10 Im Falle einer Begegnung verschiedener krimineller Organisationen sind diese Organisationen verpflichtet, miteinander zu schießen."
+      },
+      {
+        "paragraph": "4.11",
+        "text": "Crime / Transporter während Gefecht",
+        "mute": "",
+        "ajail": "30",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(LV) 4.11 Es ist verboten, während des Schusswechsels mit dem Transportfahrzeug (Speedo) zu interagieren."
+      },
+      {
+        "paragraph": "4.12",
+        "text": "Crime / ",
+        "mute": "1 Screenshot / 1 Video vorlegen",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 4.12 Während des Angriffs auf den Konvoi muss ein Video / ein Screenshot von der erhaltenen Materialienlieferinformation vorliegen."
+      },
+      {
+        "paragraph": "4.13",
+        "text": "Crime / Max 2 mal am Tag Angreifen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LV) 4.13 Eine kriminelle Organisation darf maximal 2 Mal pro Tag Materialienlieferungen angreifen. Erklärung: Nur erfolgreiche Lieferungen (abgefangene Materialien / Materialien, die in das eigene (verbündete) Lager geliefert wurden, werden gezählt)."
+      }
+    ]
+  },
+  "RR.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.2",
+        "text": "Razzia erst nach Zustimmung eines HauptSta",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(RR) 1.2 Eine Razzia darf nur durchgeführt werden, wenn ein Razziabefehl und die Zustimmung des Hauptstaatsanwalts vorliegen."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "State / Nur Fahrzeuge der jeweiligen Fraktion",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(RR) 2.1 Während der Razzia dürfen nur Fahrzeuge der jeweiligen Fraktion verwendet werden."
+      },
+      {
+        "paragraph": "2.5",
+        "text": "State / Schießen ohne RP Grund",
+        "mute": "",
+        "ajail": "100",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(RR) 2.5 Die staatlichen Fraktionen dürfen ohne einen ausreichenden RP-Grund auf keine Person schießen"
+      },
+      {
+        "paragraph": "3.1",
+        "text": "Crime / IC-Verstärkung ",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(RR) 3.1 Das Bitten um Hilfe von verbündeten Gangs/Mafias ist in IC gestattet."
+      },
+      {
+        "paragraph": "3.2",
+        "text": "Leeren des Lagers",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(RR) 3.2 Das Leeren des Lagers während einer Razzia ist verboten. Das Übertragen von illegalen Gegenständen an eine andere Fraktion/in das Auto legen ist verboten."
+      }
+    ]
+  },
+  "LR.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.1",
+        "text": "Lager für Persönliche Zwecke",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leadern Warn",
+        "hovertext": "(LR) 1.1 Es ist dem Leader verboten, das Lager und das Fraktionssaldo für persönlichen Nutzen zu nutzen. Hinweis: Nur für die Fraktion."
+      },
+      {
+        "paragraph": "1.5",
+        "text": "Verantwortlich für alle Member",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 1.5 Der Leader ist für alle Mitglieder seiner Fraktion verantwortlich."
+      },
+      {
+        "paragraph": "1.10",
+        "text": "Erster Tag - Ränge Zuweisen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 1.10 Der Leader kann während des ersten Tages seiner Bestellung jedem beliebigen Rang zuweisen."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "Pflichten / Regeln Einhalten",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 2.1 Die Regeln auf dem Server einhalten."
+      },
+      {
+        "paragraph": "2.3",
+        "text": "Pflichten / Online Zeit 3 Stunden",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 2.3 Mindestens 3 Stunden täglich online sein."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Pflichten / Aktivität pflegen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 2.4 Die Aktivität der Fraktion pflegen."
+      },
+      {
+        "paragraph": "3.2",
+        "text": "Auf anderen Projekten",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 3.2 Auf anderen RAGEMP-Servern spielen."
+      },
+      {
+        "paragraph": "3.4",
+        "text": "NRP innerhalb Fraktion",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 3.4 Alle NRP-Aktionen innerhalb der Fraktion."
+      },
+      {
+        "paragraph": "3.5",
+        "text": "Leader Bewerbung trotz Leaderschaft",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Beendigung Leaderschaft",
+        "hovertext": "(LR) 3.5 Es ist verboten, sich für den Posten des Leader zu bewerben, wenn Sie bereits einen Leader Posten besetzten (zum Zeitpunkt der Bewerbung)"
+      },
+      {
+        "paragraph": "3.6",
+        "text": "Weniger als 15 Tage",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 3.6 Weniger als 15 Personen online während des Tages haben."
+      },
+      {
+        "paragraph": "3.7",
+        "text": "Gegen Regel verstoßen",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "Leader Warn",
+        "hovertext": "(LR) 3.7 Verstoß gegen die Server-Regeln."
+      }
+    ]
+  },
+  "TU.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.1.2",
+        "text": "Entscheidung trifft Chief Curator",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "FrakWarn, Gebietwiedergabe, Wiederholungsturf",
+        "hovertext": "(TU) 1.1.2 Die endgültige Entscheidung für Verstöße gegen die Regeln bei Eroberungen trifft der Chief Curator - wählt die Strafe für die Situation aus."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "POV Pflicht der Teilnehmer",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "15",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(TU) 2.1 Jeder Teilnehmer ist verpflichtet, von Beginn bis Ende des Ereignisses eine Videoaufnahme zu erstellen."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Teilnehmer haben Recht POV anzufordern",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "15",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(TU) 2.4 Jeder Fraktionskurator hat das Recht, innerhalb von 24 Stunden eine Videoaufnahme von bestimmten Spielern des Captures anzufordern. Wenn der Spieler keine Videoaufnahme innerhalb von 24 Stunden bereitstellt, gilt dies als Nichtaufnahme des Videos."
+      },
+      {
+        "paragraph": "3.7",
+        "text": "Verteidigung ist verpflichtet anzugreifen",
+        "mute": "",
+        "ajail": "35",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(TU) 3.7 In einem Revierkampf ist die verteidigende Seite verpflichtet, anzugreifen, um die Eroberung zu gewinnen, bevor der Timer abläuft."
+      },
+      {
+        "paragraph": "4.2",
+        "text": "Während Eroberung Spiel verlassen",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(TU) 4.2 Es ist verboten, während der Eroberung das Spiel zu verlassen"
+      },
+      {
+        "paragraph": "4.3",
+        "text": "Looten während Eroberung",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(TU) 4.3 Es ist verboten, Gegenstände während der Eroberung zu plündern"
+      }
+    ]
+  },
+  "BW.": {
+    "paragraphs": [
+      {
+        "paragraph": "1.1.2",
+        "text": "Entscheidung trifft der Chief Kurator",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "FrakWarn, Gebietwiedergabe, Wiederholungsturf",
+        "hovertext": "(BW) 1.1.2 Die endgültige Entscheidung für die Verletzung der Regeln bei Bizwar trifft der Chief Kurator und wählt die Strafe für die Situation aus."
+      },
+      {
+        "paragraph": "2.1",
+        "text": "POV Pflicht",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "15",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BW) 2.1 Jeder Teilnehmer ist verpflichtet, eine Videoaufnahme von Anfang bis Ende des Events zu halten."
+      },
+      {
+        "paragraph": "2.4",
+        "text": "Fraktionskurator haben Recht auf POV",
+        "mute": "",
+        "ajail": "",
+        "warn": "",
+        "ban": "15",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BW) 2.4 Jeder Fraktionskurator hat das Recht, innerhalb von 24 Stunden eine Videoaufnahme von bestimmten Spielern aus dem Bizwar anzufordern. Wenn der Spieler keine Videoaufnahme innerhalb von 24 Stunden bereitstellt, gilt es als nicht aufgezeichnet."
+      },
+      {
+        "paragraph": "3.4",
+        "text": "Nach Tod zu",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BW) 3.4 Nach dem Tod zurück in die Bizwar zu kommen ist nicht erlaubt."
+      },
+      {
+        "paragraph": "3.5",
+        "text": "",
+        "mute": "",
+        "ajail": "",
+        "warn": "X",
+        "ban": "",
+        "hardban": "",
+        "sonstiges": "",
+        "hovertext": "(BW) 3.5 Das Verlassen des Bizwar-Gebietes ist nicht erlaubt. Ausnahme: um ein Hindernis herumlaufen. Hinweis: Es ist verboten, sich zu lange in der neutralen Zone aufzuhalten."
+      }
+    ]
+  }
+}

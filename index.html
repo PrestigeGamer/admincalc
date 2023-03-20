@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bußgeldrechner</title>
+    <link rel="stylesheet" href="acalc.css">
+    <script src="acalc.js"></script>
+    <link rel="icon" type="image" href="favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+          integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js"
+            integrity="sha512-naukR7I+Nk6gp7p5TMA4ycgfxaZBJ7MO5iC3Fp6ySQyKFHOGfpkSZkYVWV5R7u7cfAicxanwYQ5D1e17EfJcMA=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body onload="init()">
+<div class="acalc__wrapper">
+    <span style="font-size: 25px; font-weight: bold">Strafenkatalog</span>
+    <div class="acalc__searchbar">
+        <span>&#x1F50D;&#xFE0E;</span>
+        <input type="text" name="searchtext" id="s1">
+    </div>
+    <div class="acalc__copy__notification">Command kopiert!</div>
+
+    <div class="acalc__table">
+        <div class="acalc__table__nav"></div>
+        <div class="acalc__table__header">
+            <div class="table__item paragraph">
+                Regel
+            </div>
+            <div class="table__item text">
+                Regeltext
+            </div>
+            <div class="table__item mute">
+                Mute
+            </div>
+            <div class="table__item ajail">
+                A-Jail
+            </div>
+            <div class="table__item ban">
+                Ban
+            </div>
+            <div class="table__item hardban">
+                Hardban möglich
+            </div>
+            <div class="table__item warn">
+                Warn
+            </div>
+            <div class="table__item sonstiges">
+                Sonstiges
+            </div>
+        </div>
+    </div>
+
+    <div class="acalc__unselect">Zurücksetzen</div>
+    <div class="acalc__infos">
+        <div class="top_row">
+            <select>
+                <option selected value="">Strafe</option>
+                <option class="ajail selectable" value="ajail">A-Jail</option>
+                <option class="warn selectable" value="warn">Warn</option>
+                <option class="mute selectable" value="mute">Mute</option>
+                <option class="ban selectable" value="ban">Ban</option>
+                <option class="hardban selectable" value="hardban">Hardban</option>
+            </select>
+            <input type="number" id="id" placeholder="ID"/>
+            <input type="number" id="length" placeholder="Dauer"/>
+        </div>
+        <div class="bottom_row">
+            <span>Command: </span><output class="command_text"></output>
+        </div>
+    </div>
+</div>
+</body>
+</html>
