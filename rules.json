@@ -366,7 +366,7 @@
       }
     ]
   },
-  "GZ.": {
+  "Greenzone": {
     "paragraphs": [
       {
         "paragraph": "1.1",
@@ -403,7 +403,7 @@
       }
     ]
   },
-  "RZ.": {
+  "Redzone": {
     "paragraphs": [
       {
         "paragraph": "2.1",
@@ -418,7 +418,7 @@
       }
     ]
   },
-  "CF.": {
+  "CrimeFrak": {
     "paragraphs": [
       {
         "paragraph": "1.1",
@@ -499,7 +499,7 @@
       }
     ]
   },
-  "SF.": {
+  "StaatsFrak": {
     "paragraphs": [
       {
         "paragraph": "1.2",
@@ -789,7 +789,7 @@
       }
     ]
   },
-  "CP.": {
+  "CayoPerico": {
     "paragraphs": [
       {
         "paragraph": "1.2",
@@ -936,7 +936,7 @@
       }
     ]
   },
-  "AD.": {
+  "AirDrop": {
     "paragraphs": [
       {
         "paragraph": "1.2",
@@ -1083,7 +1083,7 @@
       }
     ]
   },
-  "BR.": {
+  "Bankraub": {
     "paragraphs": [
       {
         "paragraph": "1.2",
@@ -1131,7 +1131,7 @@
       }
     ]
   },
-  "Laden Raub.": {
+  "Ladenraub": {
     "paragraphs": [
       {
         "paragraph": "1.2",
@@ -1190,7 +1190,7 @@
       }
     ]
   },
-  "ÜRE.": {
+  "Überfall/Raub": {
     "paragraphs": [
       {
         "paragraph": "1.1",
@@ -1425,7 +1425,7 @@
       }
     ]
   },
-  "FZ.": {
+  "FortRaid": {
     "paragraphs": [
       {
         "paragraph": "1.3",
@@ -1605,7 +1605,7 @@
       }
     ]
   },
-  "LV.": {
+  "Lieferung/Versorgung": {
     "paragraphs": [
       {
         "paragraph": "1.5",
@@ -1928,7 +1928,7 @@
       }
     ]
   },
-  "RR.": {
+  "Razzia/Raid": {
     "paragraphs": [
       {
         "paragraph": "1.2",
@@ -1987,7 +1987,7 @@
       }
     ]
   },
-  "LR.": {
+  "Leader": {
     "paragraphs": [
       {
         "paragraph": "1.1",
@@ -2112,7 +2112,7 @@
       }
     ]
   },
-  "TU.": {
+  "Turf": {
     "paragraphs": [
       {
         "paragraph": "1.1.2",
@@ -2182,7 +2182,7 @@
       }
     ]
   },
-  "BW.": {
+  "Bizwar": {
     "paragraphs": [
       {
         "paragraph": "1.1.2",
@@ -2230,7 +2230,7 @@
       },
       {
         "paragraph": "3.5",
-        "text": "",
+        "text": "Verlassen des Bizwar Gebietes",
         "mute": "",
         "ajail": "",
         "warn": "X",
