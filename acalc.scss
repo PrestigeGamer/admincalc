@@ -33,6 +33,18 @@ $color-border: darkgray;
     border-radius: 5px;
   }
 
+  /* Chrome, Safari, Edge, Opera */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Firefox */
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+
   .hidden {
     display: none;
   }
@@ -86,62 +98,63 @@ $color-border: darkgray;
     transition: top ease-in-out 0.2s;
   }
 
-  .acalc__unselect {
-    border: solid 2px $color-border;
-    background: transparent;
-    color: $color-highlighted;
-    padding: 10px;
-    border-radius: 5px;
+  .acalc__actions{
     position: absolute;
     bottom: 5vh;
-    right: 5vh;
     z-index: 99;
+    display: flex;
 
-    &:hover {
-      cursor: pointer;
-      border-color: $color-highlighted;
-    }
-  }
+    .acalc__unselect {
+      border: solid 2px $color-border;
+      background: transparent;
+      color: $color-highlighted;
+      padding: 10px;
+      border-radius: 5px;
+      margin-right: 10px;
 
-  .acalc__infos {
-    position: absolute;
-    bottom: 40px;
-
-    .top_row {
-      margin-bottom: 5px;
-
-      input {
-        padding: 0 10px;
+      &:hover {
+        cursor: pointer;
+        border-color: $color-highlighted;
       }
+    }
 
-      select, input {
-        background: transparent;
-        color: $color-text;
-        font-size: 1rem;
-        border: solid 2px $color-border;
+    .acalc__infos {
+      .top_row {
+        margin-bottom: 5px;
 
-        &:focus {
-          outline: none;
-          border-color: $color-highlighted;
+        input {
+          padding: 0 10px;
         }
 
+        select, input {
+          background: transparent;
+          color: $color-text;
+          font-size: 1rem;
+          border: solid 2px $color-border;
 
-        option {
-          background: $color-background;
-          padding: 5px;
-          color: $color-highlighted;
+          &:focus {
+            outline: none;
+            border-color: $color-highlighted;
+          }
 
-          &.selectable {
-            color: $color-text;
+
+          option {
+            background: $color-background;
+            padding: 5px;
+            color: $color-highlighted;
+
+            &.selectable {
+              color: $color-text;
+            }
           }
         }
       }
-    }
 
-    .bottom_row {
-      .command_text:hover {
-        color: $color-highlighted;
-        cursor: pointer;
+      .bottom_row {
+        .command_text:hover {
+          color: $color-highlighted;
+          cursor: pointer;
+        }
       }
     }
   }

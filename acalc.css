@@ -12,6 +12,8 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  /* Chrome, Safari, Edge, Opera */
+  /* Firefox */
 }
 .acalc__wrapper ::-webkit-scrollbar {
   width: 10px;
@@ -23,6 +25,14 @@
 .acalc__wrapper ::-webkit-scrollbar-thumb {
   background: #cc0053;
   border-radius: 5px;
+}
+.acalc__wrapper input::-webkit-outer-spin-button,
+.acalc__wrapper input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.acalc__wrapper input[type=number] {
+  -moz-appearance: textfield;
 }
 .acalc__wrapper .hidden {
   display: none;
@@ -70,50 +80,49 @@
   font-weight: bold;
   transition: top ease-in-out 0.2s;
 }
-.acalc__wrapper .acalc__unselect {
+.acalc__wrapper .acalc__actions {
+  position: absolute;
+  bottom: 5vh;
+  z-index: 99;
+  display: flex;
+}
+.acalc__wrapper .acalc__actions .acalc__unselect {
   border: solid 2px darkgray;
   background: transparent;
   color: #cc0053;
   padding: 10px;
   border-radius: 5px;
-  position: absolute;
-  bottom: 5vh;
-  right: 5vh;
-  z-index: 99;
+  margin-right: 10px;
 }
-.acalc__wrapper .acalc__unselect:hover {
+.acalc__wrapper .acalc__actions .acalc__unselect:hover {
   cursor: pointer;
   border-color: #cc0053;
 }
-.acalc__wrapper .acalc__infos {
-  position: absolute;
-  bottom: 40px;
-}
-.acalc__wrapper .acalc__infos .top_row {
+.acalc__wrapper .acalc__actions .acalc__infos .top_row {
   margin-bottom: 5px;
 }
-.acalc__wrapper .acalc__infos .top_row input {
+.acalc__wrapper .acalc__actions .acalc__infos .top_row input {
   padding: 0 10px;
 }
-.acalc__wrapper .acalc__infos .top_row select, .acalc__wrapper .acalc__infos .top_row input {
+.acalc__wrapper .acalc__actions .acalc__infos .top_row select, .acalc__wrapper .acalc__actions .acalc__infos .top_row input {
   background: transparent;
   color: white;
   font-size: 1rem;
   border: solid 2px darkgray;
 }
-.acalc__wrapper .acalc__infos .top_row select:focus, .acalc__wrapper .acalc__infos .top_row input:focus {
+.acalc__wrapper .acalc__actions .acalc__infos .top_row select:focus, .acalc__wrapper .acalc__actions .acalc__infos .top_row input:focus {
   outline: none;
   border-color: #cc0053;
 }
-.acalc__wrapper .acalc__infos .top_row select option, .acalc__wrapper .acalc__infos .top_row input option {
+.acalc__wrapper .acalc__actions .acalc__infos .top_row select option, .acalc__wrapper .acalc__actions .acalc__infos .top_row input option {
   background: #161618;
   padding: 5px;
   color: #cc0053;
 }
-.acalc__wrapper .acalc__infos .top_row select option.selectable, .acalc__wrapper .acalc__infos .top_row input option.selectable {
+.acalc__wrapper .acalc__actions .acalc__infos .top_row select option.selectable, .acalc__wrapper .acalc__actions .acalc__infos .top_row input option.selectable {
   color: white;
 }
-.acalc__wrapper .acalc__infos .bottom_row .command_text:hover {
+.acalc__wrapper .acalc__actions .acalc__infos .bottom_row .command_text:hover {
   color: #cc0053;
   cursor: pointer;
 }
