@@ -1,3 +1,5 @@
+//Made by Flo Heber (Discord: prestigegamer)
+
 let laws = {}
 const config = {
     'defaultLawBook': 'Allg.'
